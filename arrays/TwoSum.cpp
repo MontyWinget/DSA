@@ -45,7 +45,7 @@ vector<int> result;
 
 vector<int> array = {1, 2, 3};
 
-result = twoNumberSum(array, 6);
+result = twoNumberSum(array, 5);
 
 cout << result;
     
